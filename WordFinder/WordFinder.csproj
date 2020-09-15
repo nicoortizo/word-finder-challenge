@@ -43,8 +43,6 @@
     <Compile Include="IWordFinder.cs" />
     <Compile Include="WordFinder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WordFound.cs" />
-    <Compile Include="WordFounderComparer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Repositories\" />
